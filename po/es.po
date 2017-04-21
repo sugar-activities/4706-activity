@@ -1,0 +1,46 @@
+# Pascal Triangle
+# Copyright (C) 2013 Philip Withnll
+# This file is distributed under the same license as the Pascal Triangle
+# package.
+# Philip Withnall <philip@tecnocode.co.uk>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Pascal Triangle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-19 12:16-0600\n"
+"PO-Revision-Date: 2013-08-19 09:32-0600\n"
+"Last-Translator: Philip Withnall <philip@tecnocode.co.uk>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Pascal Triangle"
+msgstr "Triángulo de Pascal"
+
+#. TRANS: This is the text shown in cells which haven't yet
+#. been filled in by the user.
+#: pascaltriangle.py:349
+msgid "?"
+msgstr "?"
+
+#: pascaltriangle.py:385
+msgid "You've won!"
+msgstr "¡Has ganado!"
+
+#: pascaltriangle.py:386
+msgid ""
+"Well done! You've completed the Pascal Triangle. Do you want to play again?"
+msgstr ""
+"¡Bien hecho! Has completado el triángulo de Pascal. ¿Quieres jugar otra vez?"
+
+#: pascaltriangle.py:393 pascaltriangle.py:429
+msgid "New Game"
+msgstr "Juego Nuevo"
+
+#: pascaltriangle.py:441
+msgid "Show Hints"
+msgstr "Mostrar Consejos"

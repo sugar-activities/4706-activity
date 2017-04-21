@@ -1,0 +1,9 @@
+[Activity]
+name = Pascal Triangle
+summary = Addition game using Pascal’s triangle.
+activity_version = 1
+host_version = 1
+bundle_id = hn.educatrachos.pascaltriangle
+icon = activity
+exec = sugar-activity pascaltriangle.PascalTriangleActivity
+license = GPLv2+

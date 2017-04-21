@@ -1,0 +1,7 @@
+ - Allow cells to be coloured in arbitrarily. This will allow lessons based on
+   finding patterns in the numbers, such as those suggested here:
+     - http://mathforum.org/workshops/usi/pascal/index.html
+     - http://www.mathsisfun.com/pascals-triangle.html
+ - Implement other pattern triangles, such as the Leibniz harmonic triangle:
+     - http://en.wikipedia.org/wiki/Leibniz_harmonic_triangle
+ - Add [read|write]_file support for saving in-progress triangles.
